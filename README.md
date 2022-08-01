@@ -2,8 +2,6 @@
 
 ## I am a Manual QA Engineer
 
-Skills
-
 ## Tools 
 ![Postman](https://img.shields.io/badge/-POSTMAN-757575?style=for-the-badge&logo=postman&logoColor=ff8000)
 ![JIRA](https://img.shields.io/badge/-JIRA-757575?style=for-the-badge&logo=jira&logoColor=000099)
