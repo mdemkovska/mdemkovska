@@ -11,5 +11,8 @@ Skills
 ![SLACK](https://img.shields.io/badge/-SLACK-757575?style=for-the-badge&logo=slack&logoColor=000099)
 ![SQL](https://img.shields.io/badge/-SQL-757575?style=for-the-badge&logo=mysql&logoColor=ff8000)
 
-Follow me
-
+## Follow me
+![Instagram](https://img.shields.io/badge/-INSTAGRAM-757575?style=for-the-badge&logo=instagram&logoColor=ff8000)
+![Linkedin](https://img.shields.io/badge/-LINKEDIN-757575?style=for-the-badge&logo=linkedin&logoColor=000099)
+![Facebook](https://img.shields.io/badge/-FACEBOOK-757575?style=for-the-badge&logo=facebook&logoColor=ff8000)
+![Gmail](https://img.shields.io/badge/-GMAIL-757575?style=for-the-badge&logo=gmail&logoColor=000099)
