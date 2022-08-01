@@ -4,7 +4,12 @@
 
 Skills
 
-Languages
+## Tools 
+![Postman](https://img.shields.io/badge/-POSTMAN-757575?style=for-the-badge&logo=postman&logoColor=ff8000)
+![JIRA](https://img.shields.io/badge/-JIRA-757575?style=for-the-badge&logo=jira&logoColor=000099)
+![Trello](https://img.shields.io/badge/-TRELLO-757575?style=for-the-badge&logo=trello&logoColor=ff8000)
+![SLACK](https://img.shields.io/badge/-SLACK-757575?style=for-the-badge&logo=slack&logoColor=000099)
+![SQL](https://img.shields.io/badge/-SQL-757575?style=for-the-badge&logo=mysql&logoColor=ff8000)
 
 Follow me
 
