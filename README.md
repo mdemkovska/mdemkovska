@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/mdemkovska/mdemkovska/main/assets/117248395_3423085661081361_1288797937875851550_n.jpg)](https://www.youtube.com/watch?v=1yELlB39TvY)  
 
-## I am a Manual QA Engineer
+# I am a Manual QA Engineer
 
 ## Tools 
 ![Postman](https://img.shields.io/badge/-POSTMAN-757575?style=for-the-badge&logo=postman&logoColor=84c0d8)
