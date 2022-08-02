@@ -23,6 +23,8 @@
 ![AHREFS](https://img.shields.io/badge/-SCREAMINGFROG-84c0d8?style=for-the-badge&logo=screamingfrog&logoColor=757575)
 ![CHARLES](https://img.shields.io/badge/-CHARLES-757575?style=for-the-badge&logo=charles&logoColor=84c0d8)
 ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-84c0d8?style=for-the-badge&logo=html/css&logoColor=757575)
+![GIT](https://img.shields.io/badge/-GIT-757575?style=for-the-badge&logo=git&logoColor=84c0d8)
+
 
 ## Soft Skills
 ![Communication_skills](https://img.shields.io/badge/-Communication_skills-84c0d8?style=for-the-badge&logo=communication_skills&logoColor=757575)
@@ -38,4 +40,4 @@
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-757575?style=for-the-badge&logo=facebook&logoColor=84c0d8)](https://www.youtube.com/watch?v=1yELlB39TvY)
 [![Gmail](https://img.shields.io/badge/-GMAIL-757575?style=for-the-badge&logo=gmail&logoColor=84c0d8)](https://www.youtube.com/watch?v=1yELlB39TvY)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdemkovska&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdemkovska&show_icons=true)](https://github.com/mdemkovska/github-readme-stats)
