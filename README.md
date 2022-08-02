@@ -40,4 +40,4 @@
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-757575?style=for-the-badge&logo=facebook&logoColor=84c0d8)](https://www.youtube.com/watch?v=1yELlB39TvY)
 [![Gmail](https://img.shields.io/badge/-GMAIL-757575?style=for-the-badge&logo=gmail&logoColor=84c0d8)](https://www.youtube.com/watch?v=1yELlB39TvY)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdemkovska&show_icons=true)](https://github.com/mdemkovska/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdemkovska&title_color=000000)](https://github.com/mdemkovska/github-readme-stats)
