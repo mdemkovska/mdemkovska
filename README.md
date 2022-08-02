@@ -1,10 +1,10 @@
 [![Header](https://raw.githubusercontent.com/mdemkovska/mdemkovska/main/assets/117248395_3423085661081361_1288797937875851550_n.jpg)](https://www.youtube.com/watch?v=1yELlB39TvY)  
 
 # I am a Manual QA Engineer
-- *POSTMAN:* Відправка GET, POST, PUT, DELETE запитів; Автотести з використанням "Тестових сніпетів" на перевірку коду відповіді сервера тощо; Перевірка структури JSON тощо
-- *SQL:* Знаю SQL на рівні написання базових запитів (CREATE, SELECT, FROM, WHERE, DELETE, DROP, INSERT INTO, JOIN тощо) 
+- **POSTMAN:** Відправка GET, POST, PUT, DELETE запитів; Автотести з використанням "Тестових сніпетів" на перевірку коду відповіді сервера тощо; Перевірка структури JSON тощо
+- **SQL:** Знаю SQL на рівні написання базових запитів (CREATE, SELECT, FROM, WHERE, DELETE, DROP, INSERT INTO, JOIN тощо) 
 - Написання тестової документації (тест-кейси, баг-репорти, чек-листи тощо)
-- *DevTools:* перевірка стилів елемента, робота з різними розширеннями девайсів, імітація різних типів з'єднання (slow 3G, 2G тощо), запис логів, перевірка SEO інформації, підміна User-agent тощо
+- **DevTools:** перевірка стилів елемента, робота з різними розширеннями девайсів, імітація різних типів з'єднання (slow 3G, 2G тощо), запис логів, перевірка SEO інформації, підміна User-agent тощо
 - Робота з документацією, аналіз вимог, написання тестової документації
 - Ручне тестування ПО (functional, non-functional, cross-browser, exploratory, smoke, reggression, acceptance, localization, UI/UX тощо))
 - Робота в команді та самостійне виконання поставлених задач
