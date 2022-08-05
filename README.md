@@ -36,7 +36,7 @@
 ![ZEPLIN](https://img.shields.io/badge/-ZEPLIN-84c0d8?style=for-the-badge&logo=zeplin&logoColor=757575)
 ![BROWSERSTACK](https://img.shields.io/badge/-BROWSERSTACK-757575?style=for-the-badge&logo=browserstack&logoColor=84c0d8)
 ![CROSSBROWSERTESTING](https://img.shields.io/badge/-CROSSBROWSERTESTING-84c0d8?style=for-the-badge&logo=crossbrowsertesting&logoColor=757575)
-![GIT](https://img.shields.io/badge/-GIT-757575?style=for-the-badge&logo=git&logoColor=84c0d8&link='https://github.com/mdemkovska')
+![GIT](https://img.shields.io/badge/-GIT-757575?style=for-the-badge&logo=git&logoColor=84c0d8&link=https://github.com/mdemkovska)
 ![JMETER](https://img.shields.io/badge/-JMETER-84c0d8?style=for-the-badge&logo=jmeter&logoColor=757575)
 
 
