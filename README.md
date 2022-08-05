@@ -33,7 +33,7 @@
 ![GIT](https://img.shields.io/badge/-GIT-757575?style=for-the-badge&logo=git&logoColor=84c0d8)
 
 
-## Soft Skills
+## Soft skills
 ![Communication_skills](https://img.shields.io/badge/-Communication_skills-84c0d8?style=for-the-badge&logo=communication_skills&logoColor=757575)
 ![Enhanced_responsibility](https://img.shields.io/badge/-Enhanced_responsibility-84c0d8?style=for-the-badge&logo=enhanced_responsibility&logoColor=757575)
 ![Flexible_thinking](https://img.shields.io/badge/-flexible_thinking-84c0d8?style=for-the-badge&logo=flexible_thinking&logoColor=757575)
@@ -41,10 +41,11 @@
 ![Good_abstract_thinking](https://img.shields.io/badge/-good_abstract_thinking-84c0d8?style=for-the-badge&logo=good_abstract_thinking&logoColor=757575)
 ![Attention_to_detail](https://img.shields.io/badge/-attention_to_detail-84c0d8?style=for-the-badge&logo=attention_to_details&logoColor=757575)
 
-## Follow me
+## Follow me 
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-757575?style=for-the-badge&logo=instagram&logoColor=84c0d8)](https://www.youtube.com/watch?v=1yELlB39TvY)
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-757575?style=for-the-badge&logo=linkedin&logoColor=84c0d8)](https://www.youtube.com/watch?v=1yELlB39TvY)
 [![Facebook](https://img.shields.io/badge/-FACEBOOK-757575?style=for-the-badge&logo=facebook&logoColor=84c0d8)](https://www.youtube.com/watch?v=1yELlB39TvY)
 [![Gmail](https://img.shields.io/badge/-GMAIL-757575?style=for-the-badge&logo=gmail&logoColor=84c0d8)](https://www.youtube.com/watch?v=1yELlB39TvY)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdemkovska&title_color=84c0d8&text_color=ffffff&hide=commits,prs&bg_color=000000)](https://github.com/mdemkovska/github-readme-stats)
+
