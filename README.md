@@ -40,7 +40,7 @@
 ![JMETER](https://img.shields.io/badge/-JMETER-84c0d8?style=for-the-badge&logo=jmeter&logoColor=757575)
 ![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-757575?style=for-the-badge&logo=wordpress&logoColor=84c0d8)
 ![STRAPI](https://img.shields.io/badge/-STRAPI-84c0d8?style=for-the-badge&logo=strapi&logoColor=757575)
-
+![LUNACY](https://img.shields.io/badge/-LUNACY-757575?style=for-the-badge&logo=lunacy&logoColor=84c0d8)
 
 ## Soft skills
 ![Communication_skills](https://img.shields.io/badge/-Communication_skills-84c0d8?style=for-the-badge&logo=communication_skills&logoColor=757575)
