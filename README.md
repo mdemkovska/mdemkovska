@@ -38,6 +38,8 @@
 ![CROSSBROWSERTESTING](https://img.shields.io/badge/-CROSSBROWSERTESTING-84c0d8?style=for-the-badge&logo=crossbrowsertesting&logoColor=757575)
 ![GIT](https://img.shields.io/badge/-GIT-757575?style=for-the-badge&logo=git&logoColor=84c0d8)
 ![JMETER](https://img.shields.io/badge/-JMETER-84c0d8?style=for-the-badge&logo=jmeter&logoColor=757575)
+![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-757575?style=for-the-badge&logo=wordpress&logoColor=84c0d8)
+![STRAPI](https://img.shields.io/badge/-STRAPI-84c0d8?style=for-the-badge&logo=strapi&logoColor=757575)
 
 
 ## Soft skills
