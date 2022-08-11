@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/mdemkovska/mdemkovska/main/assets/117248395_3423085661081361_1288797937875851550_n.jpg)](https://www.youtube.com/watch?v=1yELlB39TvY)  
 
 # I am a Manual QA Engineer
-**Providing QA testing services for any software product** ... :smirk: 
+**Providing QA testing services for any software product**  :smirk: :smirk: :smirk: 
 - **POSTMAN:** Відправка GET, POST, PUT, DELETE запитів; Автотести з використанням "Тестових сніпетів" на перевірку коду відповіді сервера тощо; Перевірка структури JSON тощо
 - **SQL:** Знаю SQL на рівні написання базових запитів (CREATE, SELECT, FROM, WHERE, DELETE, DROP, INSERT INTO, JOIN тощо) 
 - Написання тестової документації (тест-кейси, баг-репорти, чек-листи тощо)
