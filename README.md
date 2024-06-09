@@ -54,8 +54,6 @@
 ![Attention_to_detail](https://img.shields.io/badge/-attention_to_detail-84c0d8?style=for-the-badge&logo=attention_to_details&logoColor=757575)
 
 ## Follow me 
-[![Linkedin](https://img.shields.io/badge/-LINKEDIN-757575?style=for-the-badge&logo=linkedin&logoColor=84c0d8)](https://www.youtube.com/watch?v=1yELlB39TvY)
-[![Gmail](https://img.shields.io/badge/-GMAIL-757575?style=for-the-badge&logo=gmail&logoColor=84c0d8)](https://www.youtube.com/watch?v=1yELlB39TvY)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdemkovska&title_color=84c0d8&text_color=ffffff&hide=prs&bg_color=000000)](https://github.com/mdemkovska/github-readme-stats)
+[![Linkedin](https://img.shields.io/badge/-LINKEDIN-757575?style=for-the-badge&logo=linkedin&logoColor=84c0d8)](https://www.linkedin.com/in/maryana-demkovska/)
+[![Gmail](https://img.shields.io/badge/-GMAIL-757575?style=for-the-badge&logo=gmail&logoColor=84c0d8)](maryanademkovska@gmail.com)
 
