@@ -2,14 +2,13 @@
 
 # I am a Manual QA Engineer
 ### Providing QA testing services for any software product  :smirk: :smirk: :smirk: 
-- **POSTMAN:** Відправка GET, POST, PUT, DELETE запитів; Автотести з використанням "Тестових сніпетів" на перевірку коду відповіді сервера тощо; Перевірка структури JSON тощо
-- **SQL:** Знаю SQL на рівні написання базових запитів (CREATE, SELECT, FROM, WHERE, DELETE, DROP, INSERT INTO, JOIN тощо) 
-- Написання тестової документації (тест-кейси, баг-репорти, чек-листи тощо)
-- **DevTools:** Перевірка стилів елемента, робота з різними розширеннями девайсів, імітація різних типів з'єднання (slow 3G, 2G тощо), запис логів, перевірка SEO інформації, підміна User-agent тощо
-- **GIT:** Можу створити/видалити репозиторій, створити/видалити гілки, додати/видалити файл, закомітити/запушити файл в гілку/репозиторій
-- Робота з документацією: аналіз вимог, написання тестової документації
-- Ручне тестування ПО (functional, non-functional, cross-browser, exploratory, smoke, reggression, acceptance, localization, UI/UX тощо))
-- Робота в команді та самостійне виконання поставлених задач
+- **POSTMAN:** Sending GET, POST, PUT, DELETE requests; Auto-tests using "Test Snippets" to check the server's response code, etc.; JSON structure validation etc
+- **SQL:** Knowledge of SQL at the level of writing basic queries (CREATE, SELECT, FROM, WHERE, DELETE, DROP, INSERT INTO, JOIN, etc.) 
+- Writing test documentation (test cases, bug reports, checklists, mind maps, etc.)
+- **DevTools:** Checking element styles, working with various device extensions, simulating different types of connection (slow 3G, 2G, etc.), recording logs, checking SEO information, replacing User-agent, etc.
+- **GIT:** Create/delete repository, create/delete branch, add/delete file, commit/push file to branch/repository
+- Performing various types of testing (functional, localization, visual, usability, cross-browser/platform, accessibility, performance, exploratory, smoke, reggression, acceptance, re-testing, etc.))
+- Team work and independent performance of assigned tasks
 
 ## Tools 
 ![Postman](https://img.shields.io/badge/-POSTMAN-757575?style=for-the-badge&logo=postman&logoColor=84c0d8)
@@ -52,9 +51,7 @@
 ![Attention_to_detail](https://img.shields.io/badge/-attention_to_detail-84c0d8?style=for-the-badge&logo=attention_to_details&logoColor=757575)
 
 ## Follow me 
-[![Instagram](https://img.shields.io/badge/-INSTAGRAM-757575?style=for-the-badge&logo=instagram&logoColor=84c0d8)](https://www.youtube.com/watch?v=1yELlB39TvY)
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-757575?style=for-the-badge&logo=linkedin&logoColor=84c0d8)](https://www.youtube.com/watch?v=1yELlB39TvY)
-[![Facebook](https://img.shields.io/badge/-FACEBOOK-757575?style=for-the-badge&logo=facebook&logoColor=84c0d8)](https://www.youtube.com/watch?v=1yELlB39TvY)
 [![Gmail](https://img.shields.io/badge/-GMAIL-757575?style=for-the-badge&logo=gmail&logoColor=84c0d8)](https://www.youtube.com/watch?v=1yELlB39TvY)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdemkovska&title_color=84c0d8&text_color=ffffff&hide=prs&bg_color=000000)](https://github.com/mdemkovska/github-readme-stats)
