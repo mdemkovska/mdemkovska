@@ -45,6 +45,7 @@
 ![XMIND](https://img.shields.io/badge/-XMIND-84c0d8?style=for-the-badge&logo=xmind&logoColor=757575)
 ![SALESFORCE](https://img.shields.io/badge/-SALESFORCE-757575?style=for-the-badge&logo=salesforce&logoColor=84c0d8)
 ![USERWAY](https://img.shields.io/badge/-USERWAY-84c0d8?style=for-the-badge&logo=userway&logoColor=757575)
+![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-757575?style=for-the-badge&logo=devtools&logoColor=84c0d8)
 
 ## Soft skills
 ![Communication_skills](https://img.shields.io/badge/-Communication_skills-84c0d8?style=for-the-badge&logo=communication_skills&logoColor=757575)
@@ -53,6 +54,7 @@
 ![Goal_oriented_approach](https://img.shields.io/badge/-goal--oriented_approach-84c0d8?style=for-the-badge&logo=goal-oriented_approach&logoColor=757575)
 ![Good_abstract_thinking](https://img.shields.io/badge/-good_abstract_thinking-84c0d8?style=for-the-badge&logo=good_abstract_thinking&logoColor=757575)
 ![Attention_to_detail](https://img.shields.io/badge/-attention_to_detail-84c0d8?style=for-the-badge&logo=attention_to_details&logoColor=757575)
+![Active_listening](https://img.shields.io/badge/-active_listening-84c0d8?style=for-the-badge&logo=active_listening&logoColor=757575)
 
 ## Follow me 
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-757575?style=for-the-badge&logo=linkedin&logoColor=84c0d8)](https://www.linkedin.com/in/maryana-demkovska/)
