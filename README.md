@@ -44,6 +44,7 @@
 ![CYPRESS](https://img.shields.io/badge/-CYPRESS-757575?style=for-the-badge&logo=cypress&logoColor=84c0d8)
 ![XMIND](https://img.shields.io/badge/-XMIND-84c0d8?style=for-the-badge&logo=xmind&logoColor=757575)
 ![SALESFORCE](https://img.shields.io/badge/-SALESFORCE-757575?style=for-the-badge&logo=salesforce&logoColor=84c0d8)
+![USERWAY](https://img.shields.io/badge/-USERWAY-84c0d8?style=for-the-badge&logo=userway&logoColor=757575)
 
 ## Soft skills
 ![Communication_skills](https://img.shields.io/badge/-Communication_skills-84c0d8?style=for-the-badge&logo=communication_skills&logoColor=757575)
