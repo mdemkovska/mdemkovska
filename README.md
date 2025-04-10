@@ -126,5 +126,4 @@ I am a dedicated Manual QA Tester with 6+ years of experience and 12,000+ hours 
 
 ## Open to collaboration
 > [!IMPORTANT]
-> I'm currently available for freelance projects.
-Let’s work together — feel free to message me on Upwork: https://www.upwork.com/freelancers/maryanademkovska
+> I'm currently available for freelance projects. Let’s work together — feel free to message me on Upwork, click “Hire”, or select “Invite to job”: https://www.upwork.com/freelancers/maryanademkovska
