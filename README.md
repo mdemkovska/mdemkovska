@@ -124,5 +124,7 @@ I am a dedicated Manual QA Tester with 6+ years of experience and 12,000+ hours 
 ![Kanban_Board](https://img.shields.io/badge/-Kanban_Board-84c0d8?style=for-the-badge&logo=Kanban_Board&logoColor=757575)
 ![Scrum](https://img.shields.io/badge/-Scrum-84c0d8?style=for-the-badge&logo=Scrum&logoColor=757575)
 
+## Open to collaboration
 > [!IMPORTANT]
-> Open to collaboration
+> I'm currently available for freelance projects.
+Let’s work together — feel free to message me on Upwork: https://www.upwork.com/freelancers/maryanademkovska
