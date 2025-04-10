@@ -123,6 +123,7 @@ I am a dedicated Manual QA Tester with 6+ years of experience and 12,000+ hours 
 ![Agile_Software_Development](https://img.shields.io/badge/-Agile_Software_Development-84c0d8?style=for-the-badge&logo=Agile_Software_Development&logoColor=757575)
 ![Kanban_Board](https://img.shields.io/badge/-Kanban_Board-84c0d8?style=for-the-badge&logo=Kanban_Board&logoColor=757575)
 ![Scrum](https://img.shields.io/badge/-Scrum-84c0d8?style=for-the-badge&logo=Scrum&logoColor=757575)
+![Task_prioritization](https://img.shields.io/badge/-Task_prioritization-84c0d8?style=for-the-badge&logo=Task_prioritization&logoColor=757575)
 
 ## Open to collaboration
 > [!IMPORTANT]
