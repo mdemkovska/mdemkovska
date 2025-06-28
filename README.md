@@ -62,8 +62,8 @@ I am a dedicated Manual QA Tester with 6+ years of experience and 12,000+ hours 
 ![Google_Chrome_Extension](https://img.shields.io/badge/-Google_Chrome_Extension-757575?style=for-the-badge&logo=google_chrome_extension&logoColor=757575)
 ![LOOM](https://img.shields.io/badge/-LOOM-84c0d8?style=for-the-badge&logo=loom&logoColor=757575)
 ![MONDAY](https://img.shields.io/badge/-MONDAY-757575?style=for-the-badge&logo=monday&logoColor=757575)
-![Zephyr](https://img.shields.io/badge/-Zephyr-84c0d8?style=for-the-badge&logo=Zephyr&logoColor=757575)
 ![Qase](https://img.shields.io/badge/-Qase-84c0d8?style=for-the-badge&logo=Qase&logoColor=757575)
+![Zephyr](https://img.shields.io/badge/-Zephyr-757575?style=for-the-badge&logo=Zephyr&logoColor=757575)
 
 ## Other skills
 ![Accessibility Testing](https://img.shields.io/badge/-Accessibility_Testing-84c0d8?style=for-the-badge&logo=Accessibility_Testings&logoColor=757575)
